@@ -1,0 +1,2 @@
+Mean(dep_delay_min)=23.345, Var(dep_delay_min)=3755.385
+If Var >> Mean, consider Negative Binomial as robustness.
